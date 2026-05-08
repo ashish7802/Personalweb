@@ -2,11 +2,11 @@
 
 > Full Stack Developer & AI Builder based in Lucknow, India.
 
-![Portfolio Preview](https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![Portfolio Preview](src/assets/ash.png)
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://ashyadavweb.netlify.app/)
+🔗 [View Portfolio](https://ashyada.netlify.app)
 
 ---
 
