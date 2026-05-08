@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://ashyada.netlify.app)
+🔗 [View Portfolio](https://ashyadavweb.netlify.app/)
 
 ---
 
