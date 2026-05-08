@@ -65,7 +65,7 @@ export function Experience() {
                 <div>
                   <h3 className="font-display text-2xl md:text-3xl font-bold text-white mb-2 flex items-center gap-3">
                     <Briefcase className="w-6 h-6 text-spider-blue" />
-                    Taskminions
+                    TaskMinions
                   </h3>
                   <div className="flex flex-wrap gap-2">
                     {roles.map((role, i) => (
